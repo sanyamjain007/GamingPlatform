@@ -18,9 +18,11 @@ Steps to install and run Gaming Platform Project:
 	  user = "root" 
 	  password = "123456"
 	  To reset credentials, run below command.
-		mysql>ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
+		
+	  mysql>ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
 	
 4. Dump RPGGame.sql file into mysql server using the below commands.
+
 	  mysql>create database rpggame;
 	  mysql>use rpggame;
 	  mysql>source RPGGame.sql; /** Note: give the proper path of RPGGame.sql file **/
