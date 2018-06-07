@@ -65,3 +65,4 @@ scaled up to dynamic or better learning using Machine Learning algorithms.
 2. Display a list of available games to play.
 3. Allow user to create character.
 4. Allow user to choose enemy.
+5. Introduce levels in game and level up based on experience.
