@@ -54,7 +54,7 @@ Future Enhancements to Gaming Platform Project:
 
 Design Changes:
 1. Store Game Status in Files instead of storing it in databases.
-2. Provide instance of Character class to create concreate class objects instead of creating concrete class objects directly.
+2. Provide interface to create concreate class objects instead of creating concrete class objects directly.
 
 Functionality to be added:
 1. Learning Experience: Currently, we are using static learning for experience of character. This can be
