@@ -57,7 +57,7 @@ Design Changes:
 1. Store Game Status in Files instead of storing it in databases.
 2. Provide interface to create concreate class objects instead of creating concrete class objects directly.
 
-Functionality to be added:
+Functionalities to be added:
 1. Learning Experience: Currently, we are using static learning for experience of character. This can be
 scaled up to dynamic or better learning using Machine Learning algorithms.
 2. Display a list of available games to play.
