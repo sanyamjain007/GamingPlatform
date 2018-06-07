@@ -32,7 +32,7 @@ public class Messages {
     public final static String LOGIN_MESSAGE = "Please select 1 for login and 2 for registration";
     public final static String LOGIN = "\t>1. Login";
     public final static String REGISTRATION = "\t>2. Registration";
-    public final static String ENTER_USER_NAME = "Enter Username";
+    public final static String ENTER_USER_NAME = "Enter UserId";
     public final static String ENTER_PASSWORD = "Enter Password";
     public final static String LOGIN_ERROR = "Login fail....Try again or register first!\n";
     public final static String LOGIN_SUCCESS = "Login Successful!\n";
