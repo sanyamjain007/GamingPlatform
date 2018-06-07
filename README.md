@@ -5,6 +5,11 @@
 - Just install the game using steps below.
 - Source code resides in directory: GamingPlatform/src/rpggame
 
+Pre requisites :-
+1. MYSQL Server
+2. JDK or JRE
+3. IDE or CMD
+
 Steps to install and run Gaming Platform Project:
 
 1. Git clone the project from "https://github.com/sanyamjain007/GamingPlatform" or download the zip file in email.
