@@ -5,7 +5,7 @@
 - Just install the game using steps below.
 - Source code resides in directory: GamingPlatform/src/rpggame
 
-- Steps to install and run Gaming Platform Project:
+Steps to install and run Gaming Platform Project:
 
 1. Git clone the project from "https://github.com/sanyamjain007/GamingPlatform" or download the zip file in email.
 2. Install and run mysql server 8.0 on your system.
@@ -26,7 +26,7 @@ OR
 
 6. Play game and enjoy.
 
-- Key Features of Gaming Platform Project:
+Key Features of Gaming Platform Project:
 
 1. Factory Design Pattern : Fully scalable to extend to new functionalities
 2. MVC architecture
@@ -38,7 +38,7 @@ OR
 8. Game report of saved games
 
 
-- Future Enhancements to Gaming Platform Project:
+Future Enhancements to Gaming Platform Project:
 
 Design Changes:
 1. Store Game Status in Files instead of storing it in databases.
