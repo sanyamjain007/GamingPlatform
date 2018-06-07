@@ -47,9 +47,9 @@ Key Features of Gaming Platform Project:
 5. Multiple Enemy support
 6. Multiple Game support
 7. Game report of saved games
-8. Rating based on performance
+8. Star rating based on performance
 9. Game statistics after each action 
-10. Player's base hp boost based on experience
+10. Player's base hp boost based on performance
 11. Databases to store Game Related Information
 
 
