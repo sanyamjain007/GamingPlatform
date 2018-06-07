@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/AvengersGame.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/model/Enemy.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/model/Character.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/dao/GameDao.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/Messages.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/Game.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/model/User.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/model/GameStatus.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/RPGGame.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/Constants.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/dao/GameDaoImplementation.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/model/Player.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/Actions.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/database/Database.java</file>
+            <file>file:/C:/Users/sajain/Documents/NetBeansProjects/RPGGame/src/rpggame/controller/GameController.java</file>
+        </group>
+    </open-files>
+</project-private>
