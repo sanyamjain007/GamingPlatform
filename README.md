@@ -59,6 +59,5 @@ Design Changes:
 Functionality to be added:
 1. Learning Experience: Currently, we are using static learning for experience of character. This can be
 scaled up to dynamic or better learning using Machine Learning algorithms.
-2. Add registration functionality for new user.
-3. Display a list of saved game to resume.
-4. Allow user to create character.
+2. Display a list of available games to play.
+3. Allow user to create character.
