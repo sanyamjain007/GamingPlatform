@@ -17,6 +17,7 @@ Steps to install and run Gaming Platform Project:
 3. Set MySQL credentials as.
 	  user = "root" 
 	  password = "123456"
+	  
 	  To reset credentials, run below command.
 		
 	  mysql>ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
