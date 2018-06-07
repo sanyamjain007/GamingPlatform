@@ -1,13 +1,6 @@
 # GamingPlatform
-/*
-	Author		  :	Sanyam Jain
-	Date		    :	2018-06-07
-	Project		  :	Gaming Platform
-	Description	:	This project is a Gaming Platform. It can be scaled up
-				        to support multiple games, create multiple user, save
-				        and resume game.
-*/
-
+- Project : Gaming Platform
+- Description :	This project is a Gaming Platform. It can be scaled up to support multiple games, create multiple user, save and resume game.
 - On executing the gaming platform code, the instructions to proceed are given.
 - Just install the game using steps below.
 - Source code resides in directory: GamingPlatform/src/rpggame
@@ -47,11 +40,11 @@ f. Play game and enjoy.
 
 - Future Enhancements to Gaming Platform Project:
 
-* Design Changes:
+Design Changes:
 1. Store Game Status in Files instead of storing it in databases.
 2. Merge "Player" and "Enemy" concrete classes to "Character" class instead of creating separate classes.
 
-* Functionality to be added:
+Functionality to be added:
 1. Learning Experience: Currently, we are using static learning for experience of character. This can be
 scaled up to dynamic or better learning using Machine Learning algorithms.
 2. Add registration functionality for new user.
