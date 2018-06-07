@@ -44,11 +44,12 @@ Key Features of Gaming Platform Project:
 2. MVC architecture
 3. Use of Data Access Object (Dao)
 4. Multiple Player support
-5. Multiple Character support
+5. Multiple Enemy support
 6. Multiple Game support
-7. Databases to store Game Related Information
-8. Game report of saved games
-
+7. Game report of saved games
+8. Rating based on performance
+9. Hp boost based on experience
+10. Databases to store Game Related Information
 
 Future Enhancements to Gaming Platform Project:
 
@@ -61,3 +62,4 @@ Functionality to be added:
 scaled up to dynamic or better learning using Machine Learning algorithms.
 2. Display a list of available games to play.
 3. Allow user to create character.
+4. Allow user to choose enemy.
