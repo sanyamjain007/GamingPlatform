@@ -15,7 +15,9 @@ Steps to install and run Gaming Platform Project:
 1. Git clone the project from "https://github.com/sanyamjain007/GamingPlatform" or download the zip file in email.
 2. Install and run mysql server 8.0 on your system.
 3. Set MySQL credentials as.
+	  
 	  user = "root" 
+	  
 	  password = "123456"
 	  
 	  To reset credentials, run below command.
@@ -25,7 +27,9 @@ Steps to install and run Gaming Platform Project:
 4. Dump RPGGame.sql file into mysql server using the below commands.
 
 	  mysql>create database rpggame;
+	  
 	  mysql>use rpggame;
+	  
 	  mysql>source RPGGame.sql; /** Note: give the proper path of RPGGame.sql file **/
 
 5. Import the project in a java supported IDE and run the project
