@@ -1,4 +1,4 @@
-# GamingPlatform
+# GamingPlatform for Role Playing Games
 - Project : Gaming Platform
 - Description :	This project is a Gaming Platform. It can be scaled up to support multiple games, create multiple user, save and resume game.
 - On executing the gaming platform code, the instructions to proceed are given.
