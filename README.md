@@ -50,7 +50,7 @@ Key Features of Gaming Platform Project:
 8. Star rating based on performance
 9. Game statistics after each action 
 10. Player's base hp boost based on performance
-11. Databases to store Game Related Information
+11. Database to store Game Related Information
 
 
 Future Enhancements to Gaming Platform Project:
