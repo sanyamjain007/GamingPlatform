@@ -1,7 +1,7 @@
 # GamingPlatform for Role Playing Games
 - Project : Gaming Platform
 - Description :	This project is a Gaming Platform which can be used to create new role playing games or play the existing game. It can be scaled up to support multiple games and create multiple users.
-- On executing the gaming platform code, the instructions to proceed are given.
+- For executing the gaming platform code, the instructions to proceed are given below.
 - Just install the game using steps below.
 - Source code resides in directory: GamingPlatform/src/rpggame
 
